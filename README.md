@@ -4,7 +4,7 @@ The program presented above is used in the article which covers usage of Pitest 
 
 # About Beyond Scheme
 
-Game Of Life in Elixir is maintained by [BeyondScheme.com](http://beyondscheme.com/?utm_source=github)
+Program is maintained by [BeyondScheme.com](http://beyondscheme.com/?utm_source=github)
 
 Yet another software engineers, are we?
 We build web applications on a daily basis.
