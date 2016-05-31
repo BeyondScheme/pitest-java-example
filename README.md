@@ -1,6 +1,6 @@
 # About the project
 
-The program presented above is used in the article which covers usage of Pitest library for mutation testing purposes, in Java. You can read how to use this library at [BeyondScheme blog](http://beyondscheme.com/blog).
+The program presented above is used in the article which covers usage of Pitest library for mutation testing purposes, in Java. You can read how to use this library at [BeyondScheme blog](http://beyondscheme.com/2016/pitest-with-java).
 
 # About Beyond Scheme
 
